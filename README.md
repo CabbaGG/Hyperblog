@@ -10,6 +10,7 @@ un blog increible para el curso de Git y Github de Platzi. mejor vean este video
 * aja
 * Creado por mi, que Platzi team ni que 🍆
 * Incluye ejemplos en Win, Linux y Mac
+* Disponible solo para mi
 
 Bueno, si eso almenos aprendi a hacer este README medio normal, gracias Freddy  ~~supongo~~.
 
