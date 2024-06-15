@@ -8,6 +8,7 @@ un blog increible para el curso de Git y Github de Platzi. mejor vean este video
 * como subir tu propio proyecto y hacerle seguimiento
 * como hacerle fork a otros proyectos y hacerles pull desde el origen remoto.
 * aja
+* Creado por mi, que Platzi team ni que 🍆
 
 Bueno, si eso almenos aprendi a hacer este README medio normal, gracias Freddy  ~~supongo~~.
 
